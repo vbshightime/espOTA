@@ -1,6 +1,6 @@
 
 # ESP8266 OTA updates 
-OTA updates to remotely update the ESP8266 firmware. First of all to initiate the update. First of all ofcourse we need a file to be updated :smile: . You should follow this procedure to export the binary of your arduino sketch.
+OTA updates to remotely update the ESP8266 firmware. First of all to initiate the update ofcourse we need a file to be updated :smile: . You should follow this procedure to export the binary of your arduino sketch.
 - Go to **Sketch** -> **Export Compiled Binary**
 - Once the compiling finishes then again go to **Sketch** -> **Show Sketch Folder**
 - In the sketch folder you can see the compiled binary. This compiled binary is the key of ota updates :flushed:
